@@ -2,13 +2,13 @@ Simple python script
 
 To run in:
 
-- Windows:
+# Windows:
 -  download the VANC file
 -  open Powershell
 -  type in "python" followed by the path to the file
 -  hit enter to run
 
-- Linux:
+# Linux:
 - download the program
 - open terminal
 - cd to the program's location
